@@ -38,7 +38,7 @@ ArmazemDeConhecimento/
 ## Catálogo de Livros e Materiais
 
 <!-- CATALOGO:INICIO -->
-> **Acervo indexado:** **43 PDFs** distribuídos em **11 categorias** (790.5 MB no total).
+> **Acervo indexado:** **44 PDFs** distribuídos em **11 categorias** (853.3 MB no total).
 
 ### Algoritmos e Estruturas de Dados (`2.Estudos/Algoritmos/`)
 
@@ -73,6 +73,7 @@ ArmazemDeConhecimento/
 | [Introdução a Data Science: Algoritmos de Machine Learning e Métodos de Análise](2.Estudos/Teorico/Introdu%C3%A7%C3%A3o%20a%20data%20science%20-%20Algoritmos%20de%20machine%20learning%20e%20m%C3%A9todos%20de%20an%C3%A1lise%20-%20Autor%20%28Casa%20do%20C%C3%B3digo%29.pdf) | Casa do Código | 8.2 MB |
 | [O Programador Pragmático: De Aprendiz a Mestre](2.Estudos/Teorico/O%20Programador%20Pragm%C3%A1tico%20-%20Autor%20%28Andrew%20Hunt%20e%20David%20Thomas%29.pdf) | Andrew Hunt e David Thomas | 1.3 MB |
 | [Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos](2.Estudos/Teorico/Padr%C3%B5es%20de%20Projetos%20-%20Solu%C3%A7%C3%B5es%20Reutiliz%C3%A1veis%20de%20Software%20Orientados%20a%20Objetos%20-%20Autor%20%28Erich%20Gamma%29.pdf) | Erich Gamma (GoF) | 5.2 MB |
+| [Pressman - Engenharia de Software-Uma Abordagem Profissional - 8a](2.Estudos/Teorico/Pressman%20-%20Engenharia%20de%20Software-Uma%20Abordagem%20Profissional%20-%208a.pdf) | — | 62.8 MB |
 | [Pro Git - 2ª Edição](2.Estudos/Teorico/progit.pdf) | Scott Chacon e Ben Straub | 17.9 MB |
 | [SEO Prático: Seu Site na Primeira Página das Buscas](2.Estudos/Teorico/SEO%20Pr%C3%A1tico%20-%20Seu%20Site%20na%20Primeira%20P%C3%A1gina%20das%20Buscas%20-%20Autor%20%28Casa%20do%20C%C3%B3digo%29.pdf) | Casa do Código | 3.2 MB |
 | [Structure and Interpretation of Computer Programs (SICP)](2.Estudos/Teorico/Structure_Interpretation_Computer.pdf) | Harold Abelson e Gerald Jay Sussman (MIT) | 7.1 MB |
